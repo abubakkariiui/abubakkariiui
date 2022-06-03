@@ -12,8 +12,7 @@ I am an enthusiastic and creative software developer with experience developing 
 * 🧠  I'm learning Angular , React Js and Node Js
 * ⚡  ALONE WE CAN DO SO LITTLE, TOGETHER WE CAN DO SO MUCH.
 
-<a href="https://www.github.com/abubakkariiui" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abubakkariiui?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
