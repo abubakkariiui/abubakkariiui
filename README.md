@@ -1,5 +1,5 @@
 
-Welcome to Abubakkar Profile 👋
+Welcome to ABUBAKKAR Profile 👋
 ==========================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DA53F7&width=450&height=60&lines=Full+Stack+Web+and+App+Developer;2%2B+Years+of+Coding+Experience;Always+Learning+New+Things)](https://git.io/typing-svg)
