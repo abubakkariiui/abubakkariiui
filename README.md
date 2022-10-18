@@ -2,8 +2,6 @@
 Welcome to ABUBAKKAR Profile 👋
 ==========================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DA53F7&width=450&height=60&lines=Full+Stack+Web+and+App+Developer;2%2B+Years+of+Coding+Experience;Always+Learning+New+Things)](https://git.io/typing-svg)
-
 <p align="center">
    <a href="https://www.linkedin.com/in/abubakkarmit"><img height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCxjMApHw-_h83H7HZwYrsig"><img width="45px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
