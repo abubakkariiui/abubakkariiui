@@ -11,7 +11,7 @@ Welcome to my Profile👋
 
 I am an enthusiastic and creative software developer with experience developing web-based software. I am focused on developing and enhancing immersive, user-friendly, and feature-rich web apps and websites. I apply analytical skills and a keen eye for detail to create unique and effective web development solutions, provide technical skills and knowledge, design new websites from the ground up. I am currently available for work and looking for a new role as a fullstack developer.
 
-* 🖥️  See my portfolio at [https://abu-bakkar.netlify.app/](http://abu-bakkar.netlify.app/)
+* 🖥️  See my portfolio at [https://abu-bakkar.netlify.app/](http://abu-bakkar.netlify.app)
 * ✉️  You can contact me at [abubakkarmit@gmail.com](mailto:abubakkarmit@gmail.com)
 * 🧠  I'm learning Angular , React Js and Node Js
 * 💬 Ask me about Angular, React Js, Node Js and many more.
