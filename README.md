@@ -71,6 +71,8 @@ I am an enthusiastic and creative software developer with experience developing 
 
 ### Badges
 
+<a href="https://app.daily.dev/abubakkar"><img src="https://api.daily.dev/devcards/d35309dd7917410487600e047831807f.png?r=6sp" width="400" alt="Abu Bakkar's Dev Card"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="https://www.github.com/abubakkariiui"><img src="https://github-readme-stats.vercel.app/api?username=abubakkariiui&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abubakkariiui's GitHub stats" /></a>
