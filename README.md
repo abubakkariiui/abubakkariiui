@@ -9,7 +9,7 @@ Welcome to my Profile👋
   
 </p>
 
-I am an enthusiastic and creative software developer with experience developing web-based software. I am focused on developing and enhancing immersive, user-friendly, and feature-rich web apps and websites. I apply analytical skills and a keen eye for detail to create unique and effective web development solutions, provide technical skills and knowledge, design new websites from the ground up. I am currently available for work and looking for a new role as a fullstack developer.
+I am a passionate and innovative software developer with hands-on experience in crafting dynamic, web-based applications and solutions. Driven by a focus on creating immersive, user-friendly, and feature-rich web applications, I bring a blend of technical expertise, creativity, and an eye for detail to every project. From designing and building websites from the ground up to enhancing existing platforms, I excel at delivering tailored, effective solutions that stand out. I am currently seeking an exciting opportunity as a full-stack developer, where I can leverage my skills to contribute to impactful and engaging web development projects.
 
 * 🖥️  See my portfolio at [https://abu-bakkar.netlify.app/](http://abu-bakkar.netlify.app)
 * ✉️  You can contact me at [abubakkarmit@gmail.com](mailto:abubakkarmit@gmail.com)
